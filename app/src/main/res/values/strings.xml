@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Template</string>
+
+    <string name="detail_bottom_share">分享</string>
+    <string name="detail_bottom_like">点赞</string>
+    <string name="detail_bottom_commit">评论</string>
+
+
+    <string name="album_view">选择图片</string>
+    <string name="image_view">单击选择</string>
+    <string name="add">确定</string>
+    <string name="selected">已选</string>
+    <string name="limit_exceeded">最多能选 %d 张</string>
+</resources>
